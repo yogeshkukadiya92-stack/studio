@@ -1,4 +1,4 @@
-# **App Name**: Fridgenda
+# **App Name**: Coach for life
 
 ## Core Features:
 

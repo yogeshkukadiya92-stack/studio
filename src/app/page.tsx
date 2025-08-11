@@ -74,7 +74,7 @@ export default function Home() {
         <header className="mb-12">
           <h1 className="font-headline text-5xl font-bold text-primary flex items-center justify-center gap-4">
             <ChefHat className="h-12 w-12" />
-            Fridgenda
+            Coach for Life Recipe Maker
           </h1>
           <p className="mt-4 text-lg text-muted-foreground">
             What&apos;s in your fridge? Let&apos;s cook something delicious!

@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Fridgenda',
+  title: 'Coach for Life Recipe Maker',
   description: 'Generate recipes from ingredients in your fridge.',
 };
 
