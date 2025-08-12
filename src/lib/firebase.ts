@@ -25,7 +25,7 @@ if (!getApps().length) {
 }
 
 let analytics;
-if (typeof window !== 'undefined') {
+if (typeof window !== 'undefined' && firebaseConfig.apiKey) {
     analytics = getAnalytics(app);
 }
 
